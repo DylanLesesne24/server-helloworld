@@ -19,5 +19,6 @@
   "homepage": "https://github.com/DylanLesesne24/server-helloworld#readme",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {}
 }
